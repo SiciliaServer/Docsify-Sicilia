@@ -6,20 +6,20 @@
 
 **紫晶头盔**
 
-![](dungeon-crafting/zjtk.png)
+![](_image/dungeon-crafting/zjtk.png)
 
 **紫晶胸甲**
 
-![](dungeon-crafting/zjxj.png)
+![](_image/dungeon-crafting/zjxj.png)
 
 **紫晶护腿**
 
-![](dungeon-crafting/zjht.png)
+![](_image/dungeon-crafting/zjht.png)
 
 **紫晶靴子**
 
-![](dungeon-crafting/zjxz.png)
+![](_image/dungeon-crafting/zjxz.png)
 
 **紫晶战斧**
 
-![](dungeon-crafting/zjzf.png)
+![](_image/dungeon-crafting/zjzf.png)
