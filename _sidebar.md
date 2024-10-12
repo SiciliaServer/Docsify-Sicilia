@@ -12,3 +12,6 @@
     * [规则](/dungeon/dungeon-rule.md)
     * [组队](/dungeon/dungeon-team.md)
     * [BOSS](/dungeon/dungeon-boss.md)
+* 领地
+    * [指令](/huskclaim/command.md)
+    
