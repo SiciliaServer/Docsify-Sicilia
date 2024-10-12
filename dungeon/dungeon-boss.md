@@ -8,15 +8,15 @@
 
 **合成需在远古祭坛进行**
 
-![](dungeon/gdjt.png)
+![](_image/dungeon/gdjt.png)
 
 **紫晶傀儡**
 
-![](dungeon/zjkl.png)
+![](_image/dungeon/zjkl.png)
 
 **Herobrine**
 
-![](dungeon/herobrine.png)
+![](_image/dungeon/herobrine.png)
 
 ### 召唤方法
 
