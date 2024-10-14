@@ -2,7 +2,7 @@
 
 输入 /party 后可进入组队界面
 
-![](dungeon/83e330785908477fe28115cec263a15a.png)
+![](_image/dungeon/83e330785908477fe28115cec263a15a.png)
 
 组建完小队队长用水晶右键后队员需输入 /ready 准备
 
