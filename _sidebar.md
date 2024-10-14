@@ -4,6 +4,7 @@
 * 服务器规则
     * [介绍](/rule/introduce.md)
     * [特性改动](/rule/vanilla-addon.md)
+    * [基础指令](/rule/command.md)
 * 合成表
     * [职业武器](/class/MMOWEAPON.md)
     * [地牢](/dungeon/dungeon-crafting)
